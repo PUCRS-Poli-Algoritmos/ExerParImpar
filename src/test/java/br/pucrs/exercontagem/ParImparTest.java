@@ -20,9 +20,7 @@ class ParImparTest {
 	void parImparAux1Test() {
 		int [] aux1 = {1, 2, 3, 4, 5, 6};
 		int [] res = {2, 4, 6, 1, 3, 5};
-		
-		
-		
+		assertArrayEquals(res, pi.sepParImparAux1(aux1) );
 	}
 	
 	@Test
