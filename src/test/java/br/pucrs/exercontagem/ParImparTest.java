@@ -27,9 +27,7 @@ class ParImparTest {
 	void parImparInPlace1Test() {
 		int [] aux1 = {1, 2, 3, 4, 5, 6};
 		int [] res = {6, 2, 4, 3, 5, 1};
-		
-		
-		
+
 	}
 	
 	@Test
