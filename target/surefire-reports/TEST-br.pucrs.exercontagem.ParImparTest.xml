@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.pucrs.exercontagem.ParImparTest" time="0.01" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.pucrs.exercontagem.ParImparTest" time="0.046" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\mcmor\AppData\Local\Temp\surefire2780400061757088557\surefirebooter2647397415205363604.jar C:\Users\mcmor\AppData\Local\Temp\surefire2780400061757088557 2020-08-20T02-06-17_102-jvmRun1 surefire8000541899904430863tmp surefire_07205091588249301407tmp"/>
+    <property name="sun.java.command" value="C:\Users\mcmor\AppData\Local\Temp\surefire3858537127103891152\surefirebooter18315473945743051648.jar C:\Users\mcmor\AppData\Local\Temp\surefire3858537127103891152 2020-09-14T19-56-45_129-jvmRun1 surefire13373444219779826956tmp surefire_016820444719651363759tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Users\mcmor\Dropbox\M\WSGitClones\ExerParImpar\target\test-classes;D:\Users\mcmor\Dropbox\M\WSGitClones\ExerParImpar\target\classes;C:\Users\mcmor\.m2\repository\org\junit\jupiter\junit-jupiter\5.4.2\junit-jupiter-5.4.2.jar;C:\Users\mcmor\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;C:\Users\mcmor\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\mcmor\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\mcmor\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\mcmor\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.4.2\junit-jupiter-params-5.4.2.jar;C:\Users\mcmor\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\mcmor\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\mcmor\AppData\Local\Temp\surefire2780400061757088557\surefirebooter2647397415205363604.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\mcmor\AppData\Local\Temp\surefire3858537127103891152\surefirebooter18315473945743051648.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.1+13-LTS"/>
@@ -60,8 +60,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="parImparInPlace1Test" classname="br.pucrs.exercontagem.ParImparTest" time="0.005"/>
+  <testcase name="parImparInPlace1Test" classname="br.pucrs.exercontagem.ParImparTest" time="0.029"/>
   <testcase name="parImparInPlace2Test" classname="br.pucrs.exercontagem.ParImparTest" time="0"/>
-  <testcase name="parImparAux1Test" classname="br.pucrs.exercontagem.ParImparTest" time="0"/>
-  <testcase name="parImparAux2Test" classname="br.pucrs.exercontagem.ParImparTest" time="0.001"/>
+  <testcase name="parImparAux1Test" classname="br.pucrs.exercontagem.ParImparTest" time="0.001"/>
+  <testcase name="parImparAux2Test" classname="br.pucrs.exercontagem.ParImparTest" time="0.002"/>
 </testsuite>

@@ -69,7 +69,14 @@ public class ParImpar {
 		}
 		
 		incrInstrucoes(1);
-		return vetAux;
+		for (int i = 0; i > vet.length; i++) {
+			incrInstrucoes(7);
+			incrIteracoes(1);
+			vet[i] = vetAux[i];
+		}
+		
+		incrInstrucoes(1);
+		return(vet);
 	}
 	
 	public int[] sepParImparInPlace1(int [] vet) {
