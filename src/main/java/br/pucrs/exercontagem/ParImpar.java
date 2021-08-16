@@ -55,6 +55,7 @@ public class ParImpar {
 			}
 		}
 		
+		
 		incrInstrucoes(1);
 		for (int i = 0; i < vet.length; i++){	
 			incrInstrucoes(4);
